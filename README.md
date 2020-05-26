@@ -3,9 +3,10 @@ Republic of Trust is a smart contract for voting and analyzing sites on the web 
 
 This application participates with <3 in the New York Blockchain Week Hackathon!
 
-Twitter link: https://twitter.com/Naytlin2/status/1265040689278132224
+* Twitter link: https://twitter.com/Naytlin2/status/1265040689278132224
 
 ![Twitter Image](https://github.com/Motanovici/republic-of-trust/blob/master/img/twitterReview.jpg)
 
-VSCode Marketplace Review: 
+* VSCode Marketplace Review: 
+
 ![VSMReview](https://github.com/Motanovici/republic-of-trust/blob/master/img/vscodeReview.jpg)
