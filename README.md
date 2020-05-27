@@ -1,6 +1,9 @@
 # republic-of-trust
 Republic of Trust is a smart contract for voting and analyzing sites on the web for a safer experience. It also provides a script for performing a sentiment and entity analysis on request by the user for a certain URL. It is part of a larger initiative for a 'Web of Trust'.
 
+I have also issued a Pull Request for adding the snippets for a smart contract UI template, here is the link:
+https://github.com/microsoft/vscode-azure-blockchain-ethereum/pull/48
+
 This application participates with <3 in the New York Blockchain Week Hackathon!
 
 * YouTube video <3 ! :
