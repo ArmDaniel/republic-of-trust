@@ -13,6 +13,7 @@ This application participates with <3 in the New York Blockchain Week Hackathon!
 
 * Twitter link about YouTube posting: https://twitter.com/Naytlin2/status/1265727822536028160
 
+![TwitterYouTube](https://github.com/Motanovici/republic-of-trust/blob/master/img/twitterReview2.jpg)
 
 * VSCode Marketplace Review: 
 
