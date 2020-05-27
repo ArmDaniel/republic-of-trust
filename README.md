@@ -3,6 +3,7 @@ Republic of Trust is a smart contract for voting and analyzing sites on the web 
 
 I have also issued a Pull Request for adding the snippets for a smart contract UI template, here is the link:
 https://github.com/microsoft/vscode-azure-blockchain-ethereum/pull/48
+A README is provided in the fork containing the Twitter post with a delightful GIF! (and other technical details,of course)
 
 This application participates with <3 in the New York Blockchain Week Hackathon!
 
