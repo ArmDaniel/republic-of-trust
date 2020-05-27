@@ -26,7 +26,7 @@ Voting.prototype.init = function(cb) {
 }
 
 if(typeof(Contracts) === "undefined") var Contracts={ Voting: { abi: [] }};
-var empty = new Voting(Contracts['Voting']);
+var voting = new Voting(Contracts['Voting']);
 
 $(document).ready(function() {
     empty.onReady();
