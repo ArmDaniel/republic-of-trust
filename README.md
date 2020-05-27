@@ -10,3 +10,7 @@ This application participates with <3 in the New York Blockchain Week Hackathon!
 * VSCode Marketplace Review: 
 
 ![VSMReview](https://github.com/Motanovici/republic-of-trust/blob/master/img/vscodeReview.jpg)
+
+* Checklist:
+
+![checklist](https://github.com/Motanovici/republic-of-trust/blob/master/img/checklist.jpg)
