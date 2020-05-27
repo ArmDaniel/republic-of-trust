@@ -3,7 +3,7 @@ const textAnalyticsClient = new TextAnalyticsClient(endpoint,  new AzureKeyCrede
 async function sentimentAnalysis(client){
 
     const sentimentInput = [
-        "I had the best day of my life. I wish you were there with me."
+        "I had the best day of my life. I wish you were there with me. I am submitting my project for the hackathon! It is amazing!"
     ];
     const sentimentResult = await client.analyzeSentiment(sentimentInput);
 
