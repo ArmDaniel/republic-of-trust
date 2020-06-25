@@ -7,6 +7,8 @@ A README is provided in the fork containing the Twitter post with a delightful G
 
 This application participates with <3 in the New York Blockchain Week Hackathon!
 
+DEV.TO Post : [DEV.TO](https://dev.to/naytlin2/blockchain-experience-azure-devkite-4koi)
+
 * YouTube video <3 ! :
 
 [YouTube](https://youtu.be/9D6TpDRlj9o)
